@@ -42,8 +42,7 @@ MY User Model
     If You hit this API `http://localhost:8090/user/getnearusers/{userid}` you will return all users Near to Location of this User.
     
     Responce Be Like :-     Here the Responce is Sorted According to the Distance
-    ```JSON
-            {
+    ```JSON{
                 "Distance": 335.72366925836286,
                 "UserName": "geetha",
                 "UserId": "63a73dfbff2b1a88f5c92408",
@@ -60,7 +59,4 @@ MY User Model
                 "UserName": "srijan",
                 "UserId": "63a73e97ff2b1a88f5c9240e",
                 "Address": "karimnagar"
-            } 
-   ```
-   
-    
+            }```
