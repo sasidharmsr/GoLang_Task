@@ -1,4 +1,4 @@
-// this is to find distances between to locations
+// this is to find distances between two locations
 package handlers
 
 import "math"
