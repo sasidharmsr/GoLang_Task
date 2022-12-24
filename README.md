@@ -29,7 +29,7 @@ MY User Model
   }
   ```
   
- ###Functionality's
+ ### Functionality's
 
     The API should follow typical RESTful API design pattern.
 
