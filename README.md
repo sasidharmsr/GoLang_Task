@@ -43,7 +43,7 @@ MY User Model
     
     Responce Be Like :-     Here the Responce is Sorted According to the Distance
     ```JSON{
-                "Distance": 335.72366925836286,
+           {     "Distance": 335.72366925836286,
                 "UserName": "geetha",
                 "UserId": "63a73dfbff2b1a88f5c92408",
                 "Address": "guntur"
@@ -59,4 +59,5 @@ MY User Model
                 "UserName": "srijan",
                 "UserId": "63a73e97ff2b1a88f5c9240e",
                 "Address": "karimnagar"
+            }
             }```
